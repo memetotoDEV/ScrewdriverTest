@@ -1,2 +1,3 @@
 # ScrewdriverTest
 Screwdriverの挙動をテストするためのリポジトリ。ビルド用のコードはjava
+会社の人に見せるためpublic。変なもの上げないように注意
